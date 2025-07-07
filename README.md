@@ -1,4 +1,4 @@
-# Toughts
+# Thoughts
 Este é um site onde podemos publicar pensamentos como um "twitter". <br>
 Este projeto foi desenvolvido em Node.js durante o curso "Node.js do zero à maestria".
 
